@@ -1,0 +1,129 @@
+#navbar {
+	height:50px; 
+	position: fixed;
+	top:0;
+	left: 0;
+	width: 100%
+}
+
+#navblock {
+	float:right;
+	height: 30px;
+	width: 350px;
+	margin: 20px -60px 0 0;
+}
+
+#main {
+	height: 400px;
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 150px;
+} 
+
+#mainLogo {
+	height: 93px;
+	display: block;
+	margin: auto;
+	padding-top: 50px;
+}
+
+#searchForm {
+	display: block;
+	margin: auto;
+}
+
+#searchBar {
+	height:30px;
+	width:460px;
+	margin: 20px 0 0 70px;
+	background: url(images/search_bar_microphone.png) no-repeat scroll 435px 1px;
+	background-size: 25px;
+	border: 1px solid rgba(160, 160, 160, 0.31);
+}
+
+#srchImg {
+	height: 30px;
+	padding-top: 3px;
+}
+
+#footer {
+	background-color: #e2e2e2;
+	height:50px;
+	position: fixed;
+	bottom:0;
+	left:0;
+	width:100%;
+}
+
+#leftBlock {
+	float: left;
+	height:30px;
+	width: 400px;
+	margin: 10px 0 0 10px;
+}
+
+#rightBlock {
+	float: right;
+	height:30px;
+	width: 250px;
+	margin: 10px 10px 0 0;
+}
+
+li {
+	font-family: arial,sans-serif;
+	font-size:small;
+	margin-top: -10px;
+	display: inline;
+	padding-left: 10px;
+	color: #5F5F5F;
+}
+
+ul {
+	margin-top: 7px;
+}
+
+#buttons {
+	width:305px;
+	display: block;
+	margin: 0 auto;
+}
+
+button {
+	margin-top:20px;
+	height:34px;
+	width: 110px;
+	color: #5F5F5F;
+	background-color: #F2F2F2;
+	border:none;
+	border-radius: 4px;
+	font-weight:bold;
+}
+
+#search {
+	margin-left:40px;
+}
+
+#lucky {
+	margin-left: 5px;
+}
+
+#menugrid {
+	height: 22px;
+	vertical-align: middle;
+	margin-bottom: 3px;
+}
+
+#signIn {
+	height: 30px;
+	width:70px;
+	background-color: #4584EF;
+	color: white;
+	font-size: small;
+	font-weight:bold;
+	border: none;
+	border-radius: 2px;
+}
+
+#navLinks {
+	margin-top: -27px;
+}
